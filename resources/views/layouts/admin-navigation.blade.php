@@ -6,10 +6,10 @@
         </a>
 
         <!-- Toggle untuk mobile -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarAdmin"
+        <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarAdmin"
             aria-controls="navbarAdmin" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
-        </button>
+        </button> -->
 
         <!-- Link Navigasi -->
         <div class="collapse navbar-collapse" id="navbarAdmin">
