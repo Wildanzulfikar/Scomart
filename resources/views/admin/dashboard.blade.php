@@ -3,14 +3,14 @@
 @section('title', 'Admin Dashboard')
 
 @section('header')
-    <div class="">
+    <div class="mt-4 mb-4">
         <h2 class="h5 mb-0 fw-semibold">Dashboard Admin</h2>
     </div>
 @endsection
 
 @section('content')
 <div class="bg-white">
-    <div class="alert alert-light text-dark">
+    <div class="alert alert-light text-dark my-4">
         Halo Admin, <strong>{{ Auth::user()->name }}</strong>!
     </div>
     <div class="row mb-4">
